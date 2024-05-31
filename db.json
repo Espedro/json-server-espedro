@@ -1,33 +1,300 @@
 {
-  "projects": [
+  "countries": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Canada",
+      "language": "English, French",
+      "population": 38005238,
+      "continent": "North America"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "Japan",
+      "language": "Japanese",
+      "population": 125960000,
+      "continent": "Asia"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "Germany",
+      "language": "German",
+      "population": 83240525,
+      "continent": "Europe"
+    },
+    {
+      "id": 4,
+      "name": "Brazil",
+      "language": "Portuguese",
+      "population": 213993437,
+      "continent": "South America"
+    },
+    {
+      "id": 5,
+      "name": "Australia",
+      "language": "English",
+      "population": 25687041,
+      "continent": "Australia"
+    },
+    {
+      "id": 6,
+      "name": "Nigeria",
+      "language": "English",
+      "population": 211400708,
+      "continent": "Africa"
+    },
+    {
+      "id": 7,
+      "name": "India",
+      "language": "Hindi, English",
+      "population": 1393409038,
+      "continent": "Asia"
+    },
+    {
+      "id": 8,
+      "name": "Russia",
+      "language": "Russian",
+      "population": 144104080,
+      "continent": "Europe"
+    },
+    {
+      "id": 9,
+      "name": "Mexico",
+      "language": "Spanish",
+      "population": 126014024,
+      "continent": "North America"
+    },
+    {
+      "id": 10,
+      "name": "South Africa",
+      "language": "Zulu, Xhosa, Afrikaans, English",
+      "population": 59308690,
+      "continent": "Africa"
+    }
+  ],
+  "places": [
+    {
+      "nameOfPlace": "Banff National Park",
+      "country": "Canada",
+      "countryId": 1,
+      "city": "Banff",
+      "bestSeasonToGo": "Summer",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "CN Tower",
+      "country": "Canada",
+      "countryId": 1,
+      "city": "Toronto",
+      "bestSeasonToGo": "Spring",
+      "based": "Urban"
+    },
+    {
+      "nameOfPlace": "Old Quebec",
+      "country": "Canada",
+      "countryId": 1,
+      "city": "Quebec City",
+      "bestSeasonToGo": "Fall",
+      "based": "Historical"
+    },
+    {
+      "nameOfPlace": "Stanley Park",
+      "country": "Canada",
+      "countryId": 1,
+      "city": "Vancouver",
+      "bestSeasonToGo": "Summer",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Niagara Falls",
+      "country": "Canada",
+      "countryId": 1,
+      "city": "Niagara Falls",
+      "bestSeasonToGo": "Summer",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Mount Fuji",
+      "country": "Japan",
+      "countryId": 2,
+      "city": "Shizuoka",
+      "bestSeasonToGo": "Spring",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Tokyo Tower",
+      "country": "Japan",
+      "countryId": 2,
+      "city": "Tokyo",
+      "bestSeasonToGo": "Summer",
+      "based": "Urban"
+    },
+    {
+      "nameOfPlace": "Fushimi Inari Shrine",
+      "country": "Japan",
+      "countryId": 2,
+      "city": "Kyoto",
+      "bestSeasonToGo": "Fall",
+      "based": "Historical"
+    },
+    {
+      "nameOfPlace": "Hiroshima Peace Memorial",
+      "country": "Japan",
+      "countryId": 2,
+      "city": "Hiroshima",
+      "bestSeasonToGo": "Spring",
+      "based": "Historical"
+    },
+    {
+      "nameOfPlace": "Osaka Castle",
+      "country": "Japan",
+      "countryId": 2,
+      "city": "Osaka",
+      "bestSeasonToGo": "Spring",
+      "based": "Historical"
+    },
+    {
+      "nameOfPlace": "Brandenburg Gate",
+      "country": "Germany",
+      "countryId": 3,
+      "city": "Berlin",
+      "bestSeasonToGo": "Summer",
+      "based": "Historical"
+    },
+    {
+      "nameOfPlace": "Neuschwanstein Castle",
+      "country": "Germany",
+      "countryId": 3,
+      "city": "Schwangau",
+      "bestSeasonToGo": "Spring",
+      "based": "Historical"
+    },
+    {
+      "nameOfPlace": "Oktoberfest",
+      "country": "Germany",
+      "countryId": 3,
+      "city": "Munich",
+      "bestSeasonToGo": "Fall",
+      "based": "Cultural"
+    },
+    {
+      "nameOfPlace": "Black Forest",
+      "country": "Germany",
+      "countryId": 3,
+      "city": "Baden-Württemberg",
+      "bestSeasonToGo": "Summer",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Cologne Cathedral",
+      "country": "Germany",
+      "countryId": 3,
+      "city": "Cologne",
+      "bestSeasonToGo": "Spring",
+      "based": "Historical"
+    },
+    {
+      "nameOfPlace": "Christ the Redeemer",
+      "country": "Brazil",
+      "countryId": 4,
+      "city": "Rio de Janeiro",
+      "bestSeasonToGo": "Spring",
+      "based": "Cultural"
+    },
+    {
+      "nameOfPlace": "Amazon Rainforest",
+      "country": "Brazil",
+      "countryId": 4,
+      "city": "Amazonas",
+      "bestSeasonToGo": "Summer",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Iguazu Falls",
+      "country": "Brazil",
+      "countryId": 4,
+      "city": "Foz do Iguaçu",
+      "bestSeasonToGo": "Fall",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Salvador's Pelourinho",
+      "country": "Brazil",
+      "countryId": 4,
+      "city": "Salvador",
+      "bestSeasonToGo": "Winter",
+      "based": "Historical"
+    },
+    {
+      "nameOfPlace": "Sugarloaf Mountain",
+      "country": "Brazil",
+      "countryId": 4,
+      "city": "Rio de Janeiro",
+      "bestSeasonToGo": "Spring",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Sydney Opera House",
+      "country": "Australia",
+      "countryId": 5,
+      "city": "Sydney",
+      "bestSeasonToGo": "Spring",
+      "based": "Cultural"
+    },
+    {
+      "nameOfPlace": "Great Barrier Reef",
+      "country": "Australia",
+      "countryId": 5,
+      "city": "Queensland",
+      "bestSeasonToGo": "Summer",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Uluru",
+      "country": "Australia",
+      "countryId": 5,
+      "city": "Northern Territory",
+      "bestSeasonToGo": "Winter",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Bondi Beach",
+      "country": "Australia",
+      "countryId": 5,
+      "city": "Sydney",
+      "bestSeasonToGo": "Summer",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Daintree Rainforest",
+      "country": "Australia",
+      "countryId": 5,
+      "city": "Queensland",
+      "bestSeasonToGo": "Spring",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Yankari National Park",
+      "country": "Nigeria",
+      "countryId": 6,
+      "city": "Bauchi",
+      "bestSeasonToGo": "Winter",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Olumo Rock",
+      "country": "Nigeria",
+      "countryId": 6,
+      "city": "Abeokuta",
+      "bestSeasonToGo": "Spring",
+      "based": "Nature"
+    },
+    {
+      "nameOfPlace": "Lekki Conservation Centre",
+      "country": "Nigeria",
+      "countryId": 6,
+      "city": "Lagos",
+      "bestSeasonToGo": "Winter",
+      "based": "Nature"
     }
   ]
 }
