@@ -73,6 +73,7 @@
   ],
   "places": [
     {
+      "id": 1,
       "nameOfPlace": "Banff National Park",
       "country": "Canada",
       "countryId": 1,
@@ -81,6 +82,7 @@
       "based": "Nature"
     },
     {
+      "id": 2,
       "nameOfPlace": "CN Tower",
       "country": "Canada",
       "countryId": 1,
@@ -89,6 +91,7 @@
       "based": "Urban"
     },
     {
+      "id": 3,
       "nameOfPlace": "Old Quebec",
       "country": "Canada",
       "countryId": 1,
@@ -97,6 +100,7 @@
       "based": "Historical"
     },
     {
+      "id": 4,
       "nameOfPlace": "Stanley Park",
       "country": "Canada",
       "countryId": 1,
@@ -105,6 +109,7 @@
       "based": "Nature"
     },
     {
+      "id": 5,
       "nameOfPlace": "Niagara Falls",
       "country": "Canada",
       "countryId": 1,
@@ -113,6 +118,7 @@
       "based": "Nature"
     },
     {
+      "id": 6,
       "nameOfPlace": "Mount Fuji",
       "country": "Japan",
       "countryId": 2,
@@ -121,6 +127,7 @@
       "based": "Nature"
     },
     {
+      "id": 7,
       "nameOfPlace": "Tokyo Tower",
       "country": "Japan",
       "countryId": 2,
@@ -129,6 +136,7 @@
       "based": "Urban"
     },
     {
+      "id": 8,
       "nameOfPlace": "Fushimi Inari Shrine",
       "country": "Japan",
       "countryId": 2,
@@ -137,6 +145,7 @@
       "based": "Historical"
     },
     {
+      "id": 9,
       "nameOfPlace": "Hiroshima Peace Memorial",
       "country": "Japan",
       "countryId": 2,
@@ -145,6 +154,7 @@
       "based": "Historical"
     },
     {
+      "id": 10,
       "nameOfPlace": "Osaka Castle",
       "country": "Japan",
       "countryId": 2,
@@ -153,6 +163,7 @@
       "based": "Historical"
     },
     {
+      "id": 11,
       "nameOfPlace": "Brandenburg Gate",
       "country": "Germany",
       "countryId": 3,
@@ -161,6 +172,7 @@
       "based": "Historical"
     },
     {
+      "id": 12,
       "nameOfPlace": "Neuschwanstein Castle",
       "country": "Germany",
       "countryId": 3,
@@ -169,6 +181,7 @@
       "based": "Historical"
     },
     {
+      "id": 13,
       "nameOfPlace": "Oktoberfest",
       "country": "Germany",
       "countryId": 3,
@@ -177,6 +190,7 @@
       "based": "Cultural"
     },
     {
+      "id": 14,
       "nameOfPlace": "Black Forest",
       "country": "Germany",
       "countryId": 3,
@@ -185,6 +199,7 @@
       "based": "Nature"
     },
     {
+      "id": 15,
       "nameOfPlace": "Cologne Cathedral",
       "country": "Germany",
       "countryId": 3,
@@ -193,6 +208,7 @@
       "based": "Historical"
     },
     {
+      "id": 16,
       "nameOfPlace": "Christ the Redeemer",
       "country": "Brazil",
       "countryId": 4,
@@ -201,6 +217,7 @@
       "based": "Cultural"
     },
     {
+      "id": 17,
       "nameOfPlace": "Amazon Rainforest",
       "country": "Brazil",
       "countryId": 4,
@@ -209,6 +226,7 @@
       "based": "Nature"
     },
     {
+      "id": 18,
       "nameOfPlace": "Iguazu Falls",
       "country": "Brazil",
       "countryId": 4,
@@ -217,6 +235,7 @@
       "based": "Nature"
     },
     {
+      "id": 19,
       "nameOfPlace": "Salvador's Pelourinho",
       "country": "Brazil",
       "countryId": 4,
@@ -225,6 +244,7 @@
       "based": "Historical"
     },
     {
+      "id": 20,
       "nameOfPlace": "Sugarloaf Mountain",
       "country": "Brazil",
       "countryId": 4,
@@ -233,6 +253,7 @@
       "based": "Nature"
     },
     {
+      "id": 21,
       "nameOfPlace": "Sydney Opera House",
       "country": "Australia",
       "countryId": 5,
@@ -241,6 +262,7 @@
       "based": "Cultural"
     },
     {
+      "id": 22,
       "nameOfPlace": "Great Barrier Reef",
       "country": "Australia",
       "countryId": 5,
@@ -249,6 +271,7 @@
       "based": "Nature"
     },
     {
+      "id": 23,
       "nameOfPlace": "Uluru",
       "country": "Australia",
       "countryId": 5,
@@ -257,6 +280,7 @@
       "based": "Nature"
     },
     {
+      "id": 24,
       "nameOfPlace": "Bondi Beach",
       "country": "Australia",
       "countryId": 5,
@@ -265,6 +289,7 @@
       "based": "Nature"
     },
     {
+      "id": 25,
       "nameOfPlace": "Daintree Rainforest",
       "country": "Australia",
       "countryId": 5,
@@ -273,6 +298,7 @@
       "based": "Nature"
     },
     {
+      "id": 26,
       "nameOfPlace": "Yankari National Park",
       "country": "Nigeria",
       "countryId": 6,
@@ -281,6 +307,7 @@
       "based": "Nature"
     },
     {
+      "id": 27,
       "nameOfPlace": "Olumo Rock",
       "country": "Nigeria",
       "countryId": 6,
@@ -289,6 +316,7 @@
       "based": "Nature"
     },
     {
+      "id": 28,
       "nameOfPlace": "Lekki Conservation Centre",
       "country": "Nigeria",
       "countryId": 6,
