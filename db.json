@@ -79,7 +79,8 @@
       "countryId": 1,
       "city": "Banff",
       "bestSeasonToGo": "Summer",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A stunning national park known for its breathtaking mountain scenery, pristine lakes, and abundant wildlife."
     },
     {
       "id": 2,
@@ -88,7 +89,8 @@
       "countryId": 1,
       "city": "Toronto",
       "bestSeasonToGo": "Spring",
-      "based": "Urban"
+      "based": "Urban",
+      "description": "A landmark of Toronto, offering panoramic views of the city from its observation decks."
     },
     {
       "id": 3,
@@ -97,7 +99,8 @@
       "countryId": 1,
       "city": "Quebec City",
       "bestSeasonToGo": "Fall",
-      "based": "Historical"
+      "based": "Historical",
+      "description": "A historic neighborhood with cobblestone streets, European architecture, and rich cultural heritage."
     },
     {
       "id": 4,
@@ -106,7 +109,8 @@
       "countryId": 1,
       "city": "Vancouver",
       "bestSeasonToGo": "Summer",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A large urban park offering scenic views, hiking trails, and beautiful gardens."
     },
     {
       "id": 5,
@@ -115,7 +119,8 @@
       "countryId": 1,
       "city": "Niagara Falls",
       "bestSeasonToGo": "Summer",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A world-famous waterfall known for its powerful flow and stunning views."
     },
     {
       "id": 6,
@@ -124,7 +129,8 @@
       "countryId": 2,
       "city": "Shizuoka",
       "bestSeasonToGo": "Spring",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "Japan's tallest mountain and an iconic symbol, famous for its symmetrical cone shape."
     },
     {
       "id": 7,
@@ -133,7 +139,8 @@
       "countryId": 2,
       "city": "Tokyo",
       "bestSeasonToGo": "Summer",
-      "based": "Urban"
+      "based": "Urban",
+      "description": "A communications and observation tower offering panoramic views of Tokyo."
     },
     {
       "id": 8,
@@ -142,7 +149,8 @@
       "countryId": 2,
       "city": "Kyoto",
       "bestSeasonToGo": "Fall",
-      "based": "Historical"
+      "based": "Historical",
+      "description": "A historic shrine famous for its thousands of vermilion torii gates."
     },
     {
       "id": 9,
@@ -151,7 +159,8 @@
       "countryId": 2,
       "city": "Hiroshima",
       "bestSeasonToGo": "Spring",
-      "based": "Historical"
+      "based": "Historical",
+      "description": "A memorial dedicated to the victims of the atomic bombing, featuring the iconic A-Bomb Dome."
     },
     {
       "id": 10,
@@ -160,7 +169,8 @@
       "countryId": 2,
       "city": "Osaka",
       "bestSeasonToGo": "Spring",
-      "based": "Historical"
+      "based": "Historical",
+      "description": "A historic castle known for its impressive architecture and beautiful surrounding gardens."
     },
     {
       "id": 11,
@@ -169,7 +179,8 @@
       "countryId": 3,
       "city": "Berlin",
       "bestSeasonToGo": "Summer",
-      "based": "Historical"
+      "based": "Historical",
+      "description": "An 18th-century neoclassical monument in Berlin, symbolizing peace and unity."
     },
     {
       "id": 12,
@@ -178,7 +189,8 @@
       "countryId": 3,
       "city": "Schwangau",
       "bestSeasonToGo": "Spring",
-      "based": "Historical"
+      "based": "Historical",
+      "description": "A fairy-tale castle nestled in the Bavarian Alps, inspiring Disney's Sleeping Beauty Castle."
     },
     {
       "id": 13,
@@ -187,7 +199,8 @@
       "countryId": 3,
       "city": "Munich",
       "bestSeasonToGo": "Fall",
-      "based": "Cultural"
+      "based": "Cultural",
+      "description": "The world's largest beer festival, celebrated with traditional Bavarian music, food, and attire."
     },
     {
       "id": 14,
@@ -196,7 +209,8 @@
       "countryId": 3,
       "city": "Baden-Württemberg",
       "bestSeasonToGo": "Summer",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A dense forest region known for its picturesque villages, hiking trails, and cuckoo clocks."
     },
     {
       "id": 15,
@@ -205,7 +219,8 @@
       "countryId": 3,
       "city": "Cologne",
       "bestSeasonToGo": "Spring",
-      "based": "Historical"
+      "based": "Historical",
+      "description": "A Gothic masterpiece and UNESCO World Heritage site, renowned for its twin spires."
     },
     {
       "id": 16,
@@ -214,7 +229,8 @@
       "countryId": 4,
       "city": "Rio de Janeiro",
       "bestSeasonToGo": "Spring",
-      "based": "Cultural"
+      "based": "Cultural",
+      "description": "An iconic statue overlooking Rio de Janeiro, symbolizing peace and welcoming visitors."
     },
     {
       "id": 17,
@@ -223,7 +239,8 @@
       "countryId": 4,
       "city": "Amazonas",
       "bestSeasonToGo": "Summer",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "The world's largest tropical rainforest, home to diverse wildlife and indigenous cultures."
     },
     {
       "id": 18,
@@ -232,7 +249,8 @@
       "countryId": 4,
       "city": "Foz do Iguaçu",
       "bestSeasonToGo": "Fall",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A spectacular set of waterfalls on the border of Brazil and Argentina, surrounded by lush rainforest."
     },
     {
       "id": 19,
@@ -241,7 +259,8 @@
       "countryId": 4,
       "city": "Salvador",
       "bestSeasonToGo": "Winter",
-      "based": "Historical"
+      "based": "Historical",
+      "description": "A historic neighborhood known for its colonial architecture, vibrant culture, and music."
     },
     {
       "id": 20,
@@ -250,7 +269,8 @@
       "countryId": 4,
       "city": "Rio de Janeiro",
       "bestSeasonToGo": "Spring",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A granite peak offering panoramic views of Rio de Janeiro and the surrounding coastline."
     },
     {
       "id": 21,
@@ -259,7 +279,8 @@
       "countryId": 5,
       "city": "Sydney",
       "bestSeasonToGo": "Spring",
-      "based": "Cultural"
+      "based": "Cultural",
+      "description": "A world-famous performing arts center known for its distinctive sail-like design."
     },
     {
       "id": 22,
@@ -268,7 +289,8 @@
       "countryId": 5,
       "city": "Queensland",
       "bestSeasonToGo": "Summer",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "The world's largest coral reef system, renowned for its vibrant marine life and coral formations."
     },
     {
       "id": 23,
@@ -277,7 +299,8 @@
       "countryId": 5,
       "city": "Northern Territory",
       "bestSeasonToGo": "Winter",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A massive sandstone monolith in the heart of the Northern Territory, sacred to indigenous Australians."
     },
     {
       "id": 24,
@@ -286,7 +309,8 @@
       "countryId": 5,
       "city": "Sydney",
       "bestSeasonToGo": "Summer",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A popular beach known for its golden sands, surf culture, and vibrant atmosphere."
     },
     {
       "id": 25,
@@ -295,7 +319,8 @@
       "countryId": 5,
       "city": "Queensland",
       "bestSeasonToGo": "Spring",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "One of the oldest rainforests in the world, home to unique flora and fauna."
     },
     {
       "id": 26,
@@ -304,7 +329,8 @@
       "countryId": 6,
       "city": "Bauchi",
       "bestSeasonToGo": "Winter",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A wildlife park known for its hot springs and diverse animal species, including elephants."
     },
     {
       "id": 27,
@@ -313,7 +339,8 @@
       "countryId": 6,
       "city": "Abeokuta",
       "bestSeasonToGo": "Spring",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A historic rock formation offering panoramic views and cultural significance."
     },
     {
       "id": 28,
@@ -322,7 +349,8 @@
       "countryId": 6,
       "city": "Lagos",
       "bestSeasonToGo": "Winter",
-      "based": "Nature"
+      "based": "Nature",
+      "description": "A nature reserve with a canopy walkway, diverse wildlife, and serene walking trails."
     }
   ]
 }
