@@ -91,7 +91,8 @@
       "city": "Toronto",
       "bestSeasonToGo": "Spring",
       "based": "Urban",
-      "description": "A landmark of Toronto, offering panoramic views of the city from its observation decks."
+      "description": "A landmark of Toronto, offering panoramic views of the city from its observation decks.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/130723065537-cn-tower-0723.jpg?q=w_4096,h_2304,x_0,y_0,c_fill"
     },
     {
       "id": 3,
@@ -101,7 +102,8 @@
       "city": "Quebec City",
       "bestSeasonToGo": "Fall",
       "based": "Historical",
-      "description": "A historic neighborhood with cobblestone streets, European architecture, and rich cultural heritage."
+      "description": "A historic neighborhood with cobblestone streets, European architecture, and rich cultural heritage.",
+      "image": "https://www.shoreexcursionsgroup.com/img/tour/CNQBHISTORIC-2.jpg"
     },
     {
       "id": 4,
@@ -111,7 +113,8 @@
       "city": "Vancouver",
       "bestSeasonToGo": "Summer",
       "based": "Nature",
-      "description": "A large urban park offering scenic views, hiking trails, and beautiful gardens."
+      "description": "A large urban park offering scenic views, hiking trails, and beautiful gardens.",
+      "image": "https://www.authentikcanada.com/uploads/images/orig/blog/seawall-de-stanley-park.jpg"
     },
     {
       "id": 5,
@@ -121,7 +124,8 @@
       "city": "Niagara Falls",
       "bestSeasonToGo": "Summer",
       "based": "Nature",
-      "description": "A world-famous waterfall known for its powerful flow and stunning views."
+      "description": "A world-famous waterfall known for its powerful flow and stunning views.",
+      "image": "https://23b83678.rocketcdn.me/wp-content/uploads/2013/08/american-fall-night-1.jpg"
     },
     {
       "id": 6,
@@ -131,7 +135,8 @@
       "city": "Shizuoka",
       "bestSeasonToGo": "Spring",
       "based": "Nature",
-      "description": "Japan's tallest mountain and an iconic symbol, famous for its symmetrical cone shape."
+      "description": "Japan's tallest mountain and an iconic symbol, famous for its symmetrical cone shape.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230908155626-05-mount-fuji-overtourism.jpg?c=original"
     },
     {
       "id": 7,
@@ -141,7 +146,8 @@
       "city": "Tokyo",
       "bestSeasonToGo": "Summer",
       "based": "Urban",
-      "description": "A communications and observation tower offering panoramic views of Tokyo."
+      "description": "A communications and observation tower offering panoramic views of Tokyo.",
+      "image": "https://offbeatjapan.org/wp-content/uploads/2011/10/tokyo-tower-night-landmark.jpg"
     },
     {
       "id": 8,
@@ -151,7 +157,7 @@
       "city": "Kyoto",
       "bestSeasonToGo": "Fall",
       "based": "Historical",
-      "description": "A historic shrine famous for its thousands of vermilion torii gates."
+      "description": "https://cdn.contexttravel.com/image/upload/c_fill,h_840,q_60/v1713975465/production/product_image/image__1713975465.jpg"
     },
     {
       "id": 9,
@@ -161,7 +167,8 @@
       "city": "Hiroshima",
       "bestSeasonToGo": "Spring",
       "based": "Historical",
-      "description": "A memorial dedicated to the victims of the atomic bombing, featuring the iconic A-Bomb Dome."
+      "description": "A memorial dedicated to the victims of the atomic bombing, featuring the iconic A-Bomb Dome.",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/89/e6.jpg"
     },
     {
       "id": 10,
@@ -171,7 +178,8 @@
       "city": "Osaka",
       "bestSeasonToGo": "Spring",
       "based": "Historical",
-      "description": "A historic castle known for its impressive architecture and beautiful surrounding gardens."
+      "description": "A historic castle known for its impressive architecture and beautiful surrounding gardens.",
+      "image": "https://resources.matcha-jp.com/resize/720x2000/2023/03/28-136333.webp"
     },
     {
       "id": 11,
@@ -181,7 +189,8 @@
       "city": "Berlin",
       "bestSeasonToGo": "Summer",
       "based": "Historical",
-      "description": "An 18th-century neoclassical monument in Berlin, symbolizing peace and unity."
+      "description": "An 18th-century neoclassical monument in Berlin, symbolizing peace and unity.",
+      "image": "https://static1.thetravelimages.com/wordpress/wp-content/uploads/2022/10/brandenburg-gate-(Brandenburger-Tor)-in-Berlin-in-the-evening.jpg"
     },
     {
       "id": 12,
@@ -191,7 +200,8 @@
       "city": "Schwangau",
       "bestSeasonToGo": "Spring",
       "based": "Historical",
-      "description": "A fairy-tale castle nestled in the Bavarian Alps, inspiring Disney's Sleeping Beauty Castle."
+      "description": "A fairy-tale castle nestled in the Bavarian Alps, inspiring Disney's Sleeping Beauty Castle.",
+      "image": "https://www.travelandleisure.com/thmb/UjzZBc3k8JKBJa0WN8_pUb6TUxo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/09-fall-NEUSCHWANSTEIN0417-dfe80c5618584643bf24b316c4ce6d45.jpg"
     },
     {
       "id": 13,
@@ -201,7 +211,8 @@
       "city": "Munich",
       "bestSeasonToGo": "Fall",
       "based": "Cultural",
-      "description": "The world's largest beer festival, celebrated with traditional Bavarian music, food, and attire."
+      "description": "The world's largest beer festival, celebrated with traditional Bavarian music, food, and attire.",
+      "image": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/HERO_ALT_Munich_GettyImages_1920x1280.jpg"
     },
     {
       "id": 14,
@@ -211,7 +222,8 @@
       "city": "Baden-Württemberg",
       "bestSeasonToGo": "Summer",
       "based": "Nature",
-      "description": "A dense forest region known for its picturesque villages, hiking trails, and cuckoo clocks."
+      "description": "A dense forest region known for its picturesque villages, hiking trails, and cuckoo clocks.",
+      "image": "https://images.squarespace-cdn.com/content/v1/5c471817a2772c47f0e12e79/9f9c078d-e3a9-44ec-a89a-7360d89fd386/The-Mysterious-Black-Forest--Exploring-Its-Secrets-.jpg"
     },
     {
       "id": 15,
@@ -221,7 +233,8 @@
       "city": "Cologne",
       "bestSeasonToGo": "Spring",
       "based": "Historical",
-      "description": "A Gothic masterpiece and UNESCO World Heritage site, renowned for its twin spires."
+      "description": "A Gothic masterpiece and UNESCO World Heritage site, renowned for its twin spires.",
+      "image": "https://christian.net/wp-content/uploads/2024/02/what-is-the-cologne-cathedral-known-for-1707920851.jpg"
     },
     {
       "id": 16,
@@ -231,7 +244,8 @@
       "city": "Rio de Janeiro",
       "bestSeasonToGo": "Spring",
       "based": "Cultural",
-      "description": "An iconic statue overlooking Rio de Janeiro, symbolizing peace and welcoming visitors."
+      "description": "An iconic statue overlooking Rio de Janeiro, symbolizing peace and welcoming visitors.",
+      "image": "https://static.timesofisrael.com/www/uploads/2018/05/Christ-Redeemer-statue-in-Rio-de-Janeiro-1-resize-e1526452982370.jpg"
     },
     {
       "id": 17,
@@ -241,7 +255,8 @@
       "city": "Amazonas",
       "bestSeasonToGo": "Summer",
       "based": "Nature",
-      "description": "The world's largest tropical rainforest, home to diverse wildlife and indigenous cultures."
+      "description": "The world's largest tropical rainforest, home to diverse wildlife and indigenous cultures.",
+      "image": "https://images.newscientist.com/wp-content/uploads/2021/12/07153640/PRI_213120354.jpg"
     },
     {
       "id": 18,
@@ -251,7 +266,8 @@
       "city": "Foz do Iguaçu",
       "bestSeasonToGo": "Fall",
       "based": "Nature",
-      "description": "A spectacular set of waterfalls on the border of Brazil and Argentina, surrounded by lush rainforest."
+      "description": "A spectacular set of waterfalls on the border of Brazil and Argentina, surrounded by lush rainforest.",
+      "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/v1618249240/Iguazu-Falls/Iguazu-Falls.jpg"
     },
     {
       "id": 19,
@@ -261,7 +277,8 @@
       "city": "Salvador",
       "bestSeasonToGo": "Winter",
       "based": "Historical",
-      "description": "A historic neighborhood known for its colonial architecture, vibrant culture, and music."
+      "description": "A historic neighborhood known for its colonial architecture, vibrant culture, and music.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/43/ac/8f/pelourinho.jpg?w=1200&h=-1&s=1"
     },
     {
       "id": 20,
@@ -271,7 +288,8 @@
       "city": "Rio de Janeiro",
       "bestSeasonToGo": "Spring",
       "based": "Nature",
-      "description": "A granite peak offering panoramic views of Rio de Janeiro and the surrounding coastline."
+      "description": "A granite peak offering panoramic views of Rio de Janeiro and the surrounding coastline.",
+      "image": "https://iugs-geoheritage.org/wp-content/uploads/2022/07/079-1_The-Sugar-Loaf-monolith-of-Rio-de-Janeiro.jpg"
     },
     {
       "id": 21,
@@ -281,7 +299,8 @@
       "city": "Sydney",
       "bestSeasonToGo": "Spring",
       "based": "Cultural",
-      "description": "A world-famous performing arts center known for its distinctive sail-like design."
+      "description": "A world-famous performing arts center known for its distinctive sail-like design.",
+      "image": "https://i0.wp.com/www.steensenvarming.com/wp-content/uploads/2023/06/MARKETING-IMAGE_Straightened-scaled.jpg?fit=1024%2C683&ssl=1"
     },
     {
       "id": 22,
@@ -291,7 +310,8 @@
       "city": "Queensland",
       "bestSeasonToGo": "Summer",
       "based": "Nature",
-      "description": "The world's largest coral reef system, renowned for its vibrant marine life and coral formations."
+      "description": "The world's largest coral reef system, renowned for its vibrant marine life and coral formations.",
+      "image": "https://cdn.britannica.com/67/152567-050-C976C2B3/Great-Barrier-Reef.jpg"
     },
     {
       "id": 23,
@@ -301,7 +321,8 @@
       "city": "Northern Territory",
       "bestSeasonToGo": "Winter",
       "based": "Nature",
-      "description": "A massive sandstone monolith in the heart of the Northern Territory, sacred to indigenous Australians."
+      "description": "A massive sandstone monolith in the heart of the Northern Territory, sacred to indigenous Australians.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6q-LOLNpchv4bXA1jxdQFSO9YxHmcnmxnOg&s"
     },
     {
       "id": 24,
@@ -311,7 +332,8 @@
       "city": "Sydney",
       "bestSeasonToGo": "Summer",
       "based": "Nature",
-      "description": "A popular beach known for its golden sands, surf culture, and vibrant atmosphere."
+      "description": "A popular beach known for its golden sands, surf culture, and vibrant atmosphere.",
+      "image": "https://lp-cms-production.imgix.net/2019-06/GettyImages-dv802147_super.jpg"
     },
     {
       "id": 25,
@@ -321,7 +343,8 @@
       "city": "Queensland",
       "bestSeasonToGo": "Spring",
       "based": "Nature",
-      "description": "One of the oldest rainforests in the world, home to unique flora and fauna."
+      "description": "One of the oldest rainforests in the world, home to unique flora and fauna.",
+      "image": "https://visitdaintree.com.au/files/2019/10/daintree-rainforest-1.jpg"
     },
     {
       "id": 26,
@@ -331,7 +354,8 @@
       "city": "Bauchi",
       "bestSeasonToGo": "Winter",
       "based": "Nature",
-      "description": "A wildlife park known for its hot springs and diverse animal species, including elephants."
+      "description": "A wildlife park known for its hot springs and diverse animal species, including elephants.",
+      "image": "https://miro.medium.com/v2/resize:fit:771/1*udDUHL2wH4vmtiIg4Eknvg.png"
     },
     {
       "id": 27,
@@ -341,7 +365,8 @@
       "city": "Abeokuta",
       "bestSeasonToGo": "Spring",
       "based": "Nature",
-      "description": "A historic rock formation offering panoramic views and cultural significance."
+      "description": "A historic rock formation offering panoramic views and cultural significance.",
+      "image": "https://netstorage-legit.akamaized.net/images/vllkyt6iq7ofqp3r8.jpg?imwidth=900"
     },
     {
       "id": 28,
@@ -351,7 +376,8 @@
       "city": "Lagos",
       "bestSeasonToGo": "Winter",
       "based": "Nature",
-      "description": "A nature reserve with a canopy walkway, diverse wildlife, and serene walking trails."
+      "description": "A nature reserve with a canopy walkway, diverse wildlife, and serene walking trails.",
+      "image": "https://www.sarahtoyin.com/wp-content/uploads/2020/01/omotayo-tajudeen-hbNlzEtn-CI-unsplash-1.jpg"
     }
   ]
 }
