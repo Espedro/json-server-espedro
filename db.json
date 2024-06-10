@@ -95,18 +95,7 @@
       Banff National Park is part of the Canadian Rocky Mountain Parks UNESCO World Heritage site and is a top destination for those seeking adventure and natural beauty.",
       "image": "https://cdn.britannica.com/71/94371-050-293AE931/Mountains-region-Ten-Peaks-Moraine-Lake-Alberta.jpg"
     },
-    {
-      "id": 2,
-      "nameOfPlace": "CN Tower",
-      "country": "Canada",
-      "countryId": 1,
-      "city": "Toronto",
-      "bestSeasonToGo": "Spring",
-      "based": "Urban",
-      "description": "A landmark of Toronto, offering panoramic views of the city from its observation decks",
-
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/130723065537-cn-tower-0723.jpg?q=w_4096,h_2304,x_0,y_0,c_fill"
-    },
+    
     {
       "id": 3,
       "nameOfPlace": "Old Quebec",
